@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Tempat-tempat yang pernah saya kunjungi.. 1. Wonderland Theme Park Melaka.</string>
+    <string name="affirmation2">2. Lost World of Tambun Theme Park Perak.</string>
+    <string name="affirmation3">3. Pantai Teluk Batik Perak.</string>
+    <string name="affirmation4">4. Pantai Ban Pecah Perak.</string>
+    <string name="affirmation5">5. Pantai Port Dickson Negeri Sembilan.</string>
+    <string name="affirmation6">6. Pantai Teluk Bayu Pulau Pinang.</string>
+    <string name="affirmation7">7. Monkey Beach Pulau Pinang.</string>
+    <string name="affirmation8">8. Pantai Tanjung Asam Pualau Pinang.</string>
+    <string name="affirmation9">9. Zoo Taiping and Night Safari Perak.</string>
+    <string name="affirmation10">10. Entopia Butterfly Farm Pulau Pinang.</string>
+</resources>
